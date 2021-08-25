@@ -9,9 +9,9 @@ The service is summarized below:
 - Withdraw
 
 # Dev. Environment
-- ATM Controller (by Python)
-- ATM HW (TBD)
-- Network to Bank account system (TBD)
+- ATM Controller (main.py)
+- ATM HW (ATM_HW.py)
+- Network to Bank account system (ATM_Bank.py)
 
 # Files
 - main.py: ATM controller base SW
