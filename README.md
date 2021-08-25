@@ -9,12 +9,15 @@ The service is summarized below:
 - Withdraw
 
 # Dev. Environment
-- ATM Controller (main.py)
-- ATM HW (ATM_HW.py)
-- Network to Bank account system (ATM_Bank.py)
+ATM system includes the sub modules below:
+- ATM Controller 
+- ATM HW
+- Network to Bank account system
 
 # Files
-- main.py: ATM controller base SW
+- ATM Controller (main.py): To provide ATM service such as check the balance, deposit, and withdraw
+- ATM HW (ATM_HW.py): To confirm the validity of the insertion of the debit card
+- Network to Bank account system (ATM_Bank.py): To connect the bank system and receive & transmit the update bank account relevant information
 
 # Logic Flow
 The logic is summarized below:
